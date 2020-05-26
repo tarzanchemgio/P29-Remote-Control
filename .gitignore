@@ -27,6 +27,30 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+# Visual Studio File 
+*.sln
+*.vcxproj
+*.users
+*.suo
+*.db
+*.slnx
+*.sqlite
+*.opendb
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.filters
+*.ilk
+unsuccessbuild
+ProjectSettings.json
+\.vs
+\bin
+\obj
+\Debug
+\Release
+\Properties
