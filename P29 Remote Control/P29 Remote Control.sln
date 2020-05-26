@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{BAA40890-E6B0-4D4E-A41F-7B91240B4526}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{7D53D958-E44A-4AC6-ADDB-FAF90E63D8B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCmd", "TestCmd\TestCmd.csproj", "{967D632B-BD9B-430A-971B-3733BBCA05A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA40890-E6B0-4D4E-A41F-7B91240B4526}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA40890-E6B0-4D4E-A41F-7B91240B4526}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{BAA40890-E6B0-4D4E-A41F-7B91240B4526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA40890-E6B0-4D4E-A41F-7B91240B4526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D53D958-E44A-4AC6-ADDB-FAF90E63D8B1}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7D53D958-E44A-4AC6-ADDB-FAF90E63D8B1}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7D53D958-E44A-4AC6-ADDB-FAF90E63D8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D53D958-E44A-4AC6-ADDB-FAF90E63D8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967D632B-BD9B-430A-971B-3733BBCA05A1}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{967D632B-BD9B-430A-971B-3733BBCA05A1}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{967D632B-BD9B-430A-971B-3733BBCA05A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967D632B-BD9B-430A-971B-3733BBCA05A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E8F36F-8056-467A-A809-D6D00AB5DA9D}
+	EndGlobalSection
+EndGlobal

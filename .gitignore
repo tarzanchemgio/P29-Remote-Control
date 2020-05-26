@@ -30,7 +30,6 @@
 *.out
 *.app
 # Visual Studio File 
-*.sln
 *.vcxproj
 *.users
 *.suo
@@ -46,6 +45,7 @@
 *.pdb
 *.filters
 *.ilk
+*.pubxml
 unsuccessbuild
 ProjectSettings.json
 \.vs
@@ -54,3 +54,5 @@ ProjectSettings.json
 \Debug
 \Release
 \Properties
+
+*.docx
